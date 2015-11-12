@@ -1,0 +1,12 @@
+Respuestas del Jurado
+•	Accepted  (AC)
+•	Presentation Error (PE)
+•	Accepted (PE) 
+•	Wrong Answer (WA)
+•	Compile Error (CE)
+•	Runtime Error (RE)
+•	Time Limit Exceeded (TL)
+•	Output Limit Exceeded (OL)
+•	Memory Limit Exceeded (ML)
+•	Submission Error (SE)
+

@@ -1,0 +1,51 @@
+	URL`S					Palabra clave en Google
+
+http://cii-judge.baylor.edu/              	uva nuevo portal
+http://uva.onlinejudge.org/			uva judge
+http://www.cppreference.com/			cpp reference
+http://uvatoolkit.com/				uva tool
+
+La web de uvatoolkit es una herramienta muy util, con ella podran ver el tipo de categoria de los problemas
+presentes en la web de uva onlinejudge aparte que tiene la opcion de probar inputs y entrar rapidamente a los enunciados
+de los problemas con un simple click.
+
+Realizar los siguientes ejercicios:
+
+10055	Hashmat the Brave Warrior
+579 	ClockHands
+494	Kindergarten Counting Game
+
+
+Para enviar sus codigos lo haran de la siguiente manera:
+
+1. Ingresar y logearse en la web de uva onlinejudge
+
+Ejemplo para enviar el 579 (ClockHands)
+
+
+2. Browse Problems 
+3. Problem Set Volumes
+4. Volume V
+5. 579 - ClockHands
+6. Click en SUBMIT (parte superior al titulo del ejercicio)
+7. Seleccionar: C++ 4.1.2 - GNU C++ Compiler with options: -lm -lcrypt -O2 -pipe -DONLINE_JUDGE
+8. Copiar el codigo en ese espacio o bien hacer un upload del .cpp  
+(RECUERDEN QUE EL PROGRAMA DEBE IMPRIMIR EXACTAMENTE LO QUE LES PIDEN)
+9. Submit :]!
+
+Opcion B:
+En el menu de la izquierda seleccionar la opcion QUICK SUBMIT
+- Ingresar el ID del problema, en este caso 579
+- Saltar a paso 7.
+
+
+LIBROS PRINCIPALES, ubicados en la carpeta Books -> Programming Contest
+Programming Challengues
+Art_of_Programming_Contest
+
+
+PD: Recuerden que solo pueden utilizar librerias de C++, es decir, por ningun motivo traten de usar 
+- CONIO(clrscr,gotoxy)
+- itoa. Puede ser suplantado por printf(s, "%d", i);
+
+Les estoy adjuntando la solucion al ejercio 579.

@@ -1,0 +1,46 @@
+10 8
+Gladiators 	1 1 1 1 1 1 1 1
+Just4Pizza 	1 1 1 1 1 0 1 0
+The_greatest 	1 1 1 0 1 0 0 0
+2+1=us 		1 0 1 0 0 1 0 1
+we_are_1+2 	0 0 1 1 0 1 1 1
+random 		1 0 0 0 1 1 1 1
+cfjaszmubdfub 	1 1 0 0 1 1 0 1
+wbkdfevtmismxg 	0 1 0 1 1 1 0 0
+soxkukbmirk 	0 1 1 0 0 1 0 0
+axoqjkpewquarasa 0 1 0 0 0 0 1 1
+10 8
+Gladiators 	0 1 0 1 1 0 0 1
+Just4Pizza 	0 1 1 1 1 0 0 0
+we_are_1+2 	0 0 1 0 1 0 0 0
+random 		0 0 1 0 1 0 1 0
+ugzbdglfbktscq 	0 1 0 0 0 0 0 1
+vxxltjgrexz 	0 0 0 1 0 0 1 0
+xqapfoogqfilqbta 0 1 1 0 0 0 1 0
+mbgjlmcgcmkkan 	0 1 1 0 0 0 1 0
+The_greatest 	0 1 0 0 0 0 0 0
+2+1=us 		0 0 0 0 0 1 1 0
+10 8
+A	0 0 1 0 1 0 0 0
+B	0 1 1 0 1 1 0 0
+C	1 0 0 0 0 1 1 0
+D	1 1 1 1 0 1 0 1
+E	0 1 1 1 1 0 1 0
+F	1 0 1 1 0 0 0 0
+G	0 1 0 1 1 1 0 1
+H	1 0 1 0 0 1 1 0
+I	0 0 0 0 0 0 0 1
+J	1 1 1 1 0 1 1 1
+10 8
+A	1 1 1 1 1 1 1 1
+B	0 0 0 1 1 1 0 0
+C	0 0 0 0 0 0 0 0
+D	1 1 1 0 1 0 1 1
+E	0 0 1 1 0 0 1 0
+F	0 1 1 0 0 1 0 0
+G	1 1 1 1 1 0 0 1
+H	0 0 1 1 1 1 1 1
+I	1 0 1 0 0 1 1 1
+J	1 0 1 0 1 1 1 1
+0 0
+

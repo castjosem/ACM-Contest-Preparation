@@ -1,0 +1,124 @@
+// leer con cin
+// si es una cadena tipo "hola mundo" el while entra dos veces
+// una para "hola", otra para "mundo"
+
+	string str;
+	while (cin>>str)
+	{
+		//operacion
+	}
+//****************************************************************************************
+
+//leer una linea completa
+
+	string str;
+	while (getline(cin,str))
+	{
+		//operacion
+	}
+//****************************************************************************************
+
+//leer una linea completa con getline y cin
+Hola Mundo
+9
+Hola Mundo32
+10
+Hola Mundo64 Mundo
+11
+
+
+	while (getline(in, str))
+	{
+		int numero;
+		string basura;
+		in>>numero;
+		getline(in, basura);
+		n++;
+	}
+
+//****************************************************************************************
+
+//leer una linea completa con cin y calcular la sumatoria de los numeros de la linea
+10 1 5 4 6
+40 51 1 6
+5 5
+40 8 4 7 4 0 45
+
+//investigar ostringstream
+#include <sstream>
+#include <fstream>
+
+using namespace std;
+
+ifstream in("in.txt");
+
+int main()
+{
+    string str;
+    int n=0;
+    while (getline(in, str))
+    {
+		istringstream iss(str);
+		int num;
+		
+		int sumatoria=0;
+		while (iss>>num)
+		{
+			sumatoria+=num;
+		}
+		cout<<"suma: "<<sumatoria<<endl;
+		
+		n++;
+	}
+	cout<<"cantidad: "<<n<<endl;
+	
+    system("PAUSE");
+    return 0;
+}
+
+//****************************************************************************************
+
+// usar vector, deque, list
+
+5
+10
+8
+3
+
+// entrada
+
+#include <iostream>
+#include <fstream>
+#include <vector>
+
+using namespace std;
+
+ifstream in("in.txt");
+
+int main()
+{
+    string str;
+    int n=0,num;
+    
+    vector<int> vctr;
+    while (in>>num)
+    {
+		vctr.push_back(num);
+	}
+
+	//metodo 1 es para vector, deque
+	for (int i=0; i<vctr.size(); i++)
+	{
+		cout<<vctr[i]<<endl;
+	}
+
+	//metodo 2 es para todos
+	vector<int>::iterator it;
+	for (it=vctr.begin(); it!=vctr.end(); it++)
+	{
+		cout<<(*it)<<endl;
+	}
+	
+    system("PAUSE");
+    return 0;
+}

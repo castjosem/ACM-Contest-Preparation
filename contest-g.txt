@@ -1,0 +1,34 @@
+4
+Cairo Kabul Baghdad Benghazi
+6
+Cairo Damascus
+Cairo Benghazi
+Kabul Baghdad
+Baghdad Damascus
+Kabul Moscow
+Kabul Damascus
+4
+Cairo Kabul Baghdad Benghazi
+9
+Cairo Kabul
+Cairo Damascus
+Cairo Benghazi
+Kabul Baghdad
+Baghdad Damascus
+Kabul Moscow
+Kabul Damascus
+Damascus Moscow
+Moscow Benghazi
+4
+Cairo Kabul Baghdad Benghazi
+9
+Damascus Moscow
+Cairo Kabul
+Cairo Damascus
+Cairo Benghazi
+Kabul Baghdad
+Baghdad Damascus
+Kabul Moscow
+Kabul Damascus
+Moscow Benghazi
+0
